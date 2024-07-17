@@ -11,9 +11,6 @@
                         }
                     }
                 },
-                "pages" : {
-                    "type" : "long"
-                },
                 "title" : {
                     "type" : "text",
                     "fields" : {
