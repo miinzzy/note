@@ -1,2 +1,3 @@
-for i in range(1,30):
-    print(i)
+tmp_lst = [1,2,3,4,5]
+
+print(sum(tmp_lst))
